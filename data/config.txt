@@ -1,0 +1,10 @@
+nombre=Premier League
+p_ganado=3
+p_empatado=1
+p_perdido=0
+equipo=Manchester City
+equipo=Liverpool
+equipo=Arsenal
+equipo=Chelsea
+equipo=Manchester United
+equipo=Tottenham
